@@ -1,1 +1,2 @@
-# self-learning_tic-tac-toe-online
+# Self-Learning Tic-Tac-Toe (Online)
+# 
