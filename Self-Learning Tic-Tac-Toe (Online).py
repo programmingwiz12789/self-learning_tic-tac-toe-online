@@ -196,8 +196,6 @@ actions = []
 stateSpace = 3 ** (BOARD_SIZE ** 2)
 Q = []
 
-# service = Service(executable_path="chromedriver.exe")    
-
 driver = webdriver.Chrome()
 
 driver.get("https://tictactoefree.com")
